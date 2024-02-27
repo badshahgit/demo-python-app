@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'welcome to Elai agritech'
+    return 'welcome to Elai  pvt ltd'
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=80)
